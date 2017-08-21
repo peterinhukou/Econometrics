@@ -5,5 +5,7 @@ Indicator variables, Time series, Panel data, Heteroskedasticity (error term is 
 
 In this repository, I attach 4 assignments accomplished by R. I remember I got 90 for PS1, 100 for each of PS2-PS4. Here I also attach Rimage for each assignment.
 
-I select Nintendo as my individual project topic. 
+I select Nintendo as my research topic of individual project. Collecting 38-quarter revenue from Nintendo's website, regressing it with iPhone quantity, I found for 1 unit of iPhone sold, Nintendo's revenue will decrease by US$60. 
+
+
 
